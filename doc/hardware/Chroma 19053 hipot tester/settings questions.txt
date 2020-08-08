@@ -1,0 +1,8 @@
+What standard are you trying to meet?
+Withstand V, insulation R, grounding R?
+AC or DC?
+test V
+I leakage limit value
+dwell time
+interface: GPIB or RS232?
+
