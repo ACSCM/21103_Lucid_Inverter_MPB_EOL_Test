@@ -295,7 +295,6 @@
 				<Item Name="chr63200A Write Instrument Data.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Write Instrument Data.vi"/>
 				<Item Name="chr63200A_32.dll" Type="Document" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A_32.dll"/>
 				<Item Name="CHR69200 Clear All Error.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Clear All Error.vi"/>
-				<Item Name="CHR69200 Clear All Error.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Clear All Error.vi"/>
 				<Item Name="CHR69200 Clear Interchange Warnings.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Clear Interchange Warnings.vi"/>
 				<Item Name="CHR69200 Close.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Close.vi"/>
 				<Item Name="CHR69200 Disable.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Disable.vi"/>
@@ -304,80 +303,41 @@
 				<Item Name="CHR69200 Get Next Coercion Record.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Get Next Coercion Record.vi"/>
 				<Item Name="CHR69200 Get Next Interchange Warning.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Get Next Interchange Warning.vi"/>
 				<Item Name="CHR69200 Get Parameter.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Get Parameter.vi"/>
-				<Item Name="CHR69200 Get Parameter.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Get Parameter.vi"/>
 				<Item Name="CHR69200 Initialize With Options.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Initialize With Options.vi"/>
 				<Item Name="CHR69200 Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Initialize.vi"/>
 				<Item Name="CHR69200 Invalidate All Attributes.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Invalidate All Attributes.vi"/>
 				<Item Name="CHR69200 IVI Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 IVI Error Converter.vi"/>
 				<Item Name="CHR69200 Query Active Control Channel.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Active Control Channel.vi"/>
-				<Item Name="CHR69200 Query Active Control Channel.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Active Control Channel.vi"/>
 				<Item Name="CHR69200 Query All Measurement Values..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query All Measurement Values..vi"/>
-				<Item Name="CHR69200 Query All Measurement Values..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query All Measurement Values..vi"/>
-				<Item Name="CHR69200 Query All The Setting Parameter Values..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query All The Setting Parameter Values..vi"/>
-				<Item Name="CHR69200 Query Current Setting Value..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Current Setting Value..vi"/>
-				<Item Name="CHR69200 Query Current Slew Rate Setting Value..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Current Slew Rate Setting Value..vi"/>
 				<Item Name="CHR69200 Query Curve State Of Battery Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Curve State Of Battery Mode..vi"/>
-				<Item Name="CHR69200 Query Cutoff Current Setting Value..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Cutoff Current Setting Value..vi"/>
-				<Item Name="CHR69200 Query Cutoff Time Setting Value..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Cutoff Time Setting Value..vi"/>
-				<Item Name="CHR69200 Query Cutoff Voltage Setting Value..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Cutoff Voltage Setting Value..vi"/>
 				<Item Name="CHR69200 Query Device Maximum Current Slew Rate..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Maximum Current Slew Rate..vi"/>
-				<Item Name="CHR69200 Query Device Maximum Current Slew Rate..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Device Maximum Current Slew Rate..vi"/>
 				<Item Name="CHR69200 Query Device Maximum Current..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Maximum Current..vi"/>
-				<Item Name="CHR69200 Query Device Maximum Current..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Device Maximum Current..vi"/>
 				<Item Name="CHR69200 Query Device Maximum ESR..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Maximum ESR..vi"/>
-				<Item Name="CHR69200 Query Device Maximum ESR..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Device Maximum ESR..vi"/>
 				<Item Name="CHR69200 Query Device Maximum Power..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Maximum Power..vi"/>
-				<Item Name="CHR69200 Query Device Maximum Power..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Device Maximum Power..vi"/>
 				<Item Name="CHR69200 Query Device Maximum Resistance Value In CR Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Maximum Resistance Value In CR Mode..vi"/>
-				<Item Name="CHR69200 Query Device Maximum Resistance Value In CR Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Device Maximum Resistance Value In CR Mode..vi"/>
 				<Item Name="CHR69200 Query Device Maximum Voltage..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Maximum Voltage..vi"/>
-				<Item Name="CHR69200 Query Device Maximum Voltage..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Device Maximum Voltage..vi"/>
 				<Item Name="CHR69200 Query Device Minimum ESR..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Minimum ESR..vi"/>
-				<Item Name="CHR69200 Query Device Minimum ESR..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Device Minimum ESR..vi"/>
 				<Item Name="CHR69200 Query Device Minimum Resistance Value In CR Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Minimum Resistance Value In CR Mode..vi"/>
-				<Item Name="CHR69200 Query Device Minimum Resistance Value In CR Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Device Minimum Resistance Value In CR Mode..vi"/>
 				<Item Name="CHR69200 Query Device Minimum Voltage..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Minimum Voltage..vi"/>
-				<Item Name="CHR69200 Query Device Minimum Voltage..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Device Minimum Voltage..vi"/>
 				<Item Name="CHR69200 Query Device Specifications (Battery Mode).vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Specifications (Battery Mode).vi"/>
-				<Item Name="CHR69200 Query Device Specifications (Battery Mode).vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Device Specifications (Battery Mode).vi"/>
 				<Item Name="CHR69200 Query Device Specifications.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Specifications.vi"/>
-				<Item Name="CHR69200 Query Device Specifications.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Device Specifications.vi"/>
 				<Item Name="CHR69200 Query Master Channel ID.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Master Channel ID.vi"/>
-				<Item Name="CHR69200 Query Master Channel ID.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Master Channel ID.vi"/>
 				<Item Name="CHR69200 Query Measurement AH..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement AH..vi"/>
-				<Item Name="CHR69200 Query Measurement AH..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Measurement AH..vi"/>
 				<Item Name="CHR69200 Query Measurement Current..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement Current..vi"/>
-				<Item Name="CHR69200 Query Measurement Current..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Measurement Current..vi"/>
 				<Item Name="CHR69200 Query Measurement DCIR..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement DCIR..vi"/>
-				<Item Name="CHR69200 Query Measurement DCIR..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Measurement DCIR..vi"/>
 				<Item Name="CHR69200 Query Measurement KWH..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement KWH..vi"/>
-				<Item Name="CHR69200 Query Measurement KWH..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Measurement KWH..vi"/>
 				<Item Name="CHR69200 Query Measurement Power..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement Power..vi"/>
-				<Item Name="CHR69200 Query Measurement Power..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Measurement Power..vi"/>
 				<Item Name="CHR69200 Query Measurement Temperature..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement Temperature..vi"/>
-				<Item Name="CHR69200 Query Measurement Temperature..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Measurement Temperature..vi"/>
 				<Item Name="CHR69200 Query Measurement Time..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement Time..vi"/>
-				<Item Name="CHR69200 Query Measurement Time..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Measurement Time..vi"/>
 				<Item Name="CHR69200 Query Measurement Voltage..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement Voltage..vi"/>
-				<Item Name="CHR69200 Query Measurement Voltage..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Measurement Voltage..vi"/>
 				<Item Name="CHR69200 Query Operation Status..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Operation Status..vi"/>
-				<Item Name="CHR69200 Query Operation Status..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Operation Status..vi"/>
 				<Item Name="CHR69200 Query Output Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Output Mode..vi"/>
-				<Item Name="CHR69200 Query Output Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Output Mode..vi"/>
-				<Item Name="CHR69200 Query Output Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Output Mode.vi"/>
 				<Item Name="CHR69200 Query Output Status..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Output Status..vi"/>
-				<Item Name="CHR69200 Query Output Status..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Output Status..vi"/>
 				<Item Name="CHR69200 Query Parameter Of Battery Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Parameter Of Battery Mode..vi"/>
-				<Item Name="CHR69200 Query Power Setting Value..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Power Setting Value..vi"/>
 				<Item Name="CHR69200 Query Process Time State..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Process Time State..vi"/>
-				<Item Name="CHR69200 Query Process Time State..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Process Time State..vi"/>
 				<Item Name="CHR69200 Query Requests The Tester To Identify.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Requests The Tester To Identify.vi"/>
-				<Item Name="CHR69200 Query Requests The Tester To Identify.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Requests The Tester To Identify.vi"/>
 				<Item Name="CHR69200 Query Tester Alarm.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Tester Alarm.vi"/>
-				<Item Name="CHR69200 Query Tester Alarm.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Tester Alarm.vi"/>
 				<Item Name="CHR69200 Query Tester Status..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Tester Status..vi"/>
-				<Item Name="CHR69200 Query Tester Status..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Tester Status..vi"/>
-				<Item Name="CHR69200 Query Voltage Setting Value..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Query Voltage Setting Value..vi"/>
 				<Item Name="CHR69200 Read Instrument Data.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Read Instrument Data.vi"/>
 				<Item Name="CHR69200 Reset Interchange Check.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Reset Interchange Check.vi"/>
 				<Item Name="CHR69200 Reset With Defaults.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Reset With Defaults.vi"/>
@@ -385,60 +345,29 @@
 				<Item Name="CHR69200 Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Revision Query.vi"/>
 				<Item Name="CHR69200 Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Self-Test.vi"/>
 				<Item Name="CHR69200 Set Activates OCP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates OCP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates OCP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Activates OCP Protection.vi"/>
 				<Item Name="CHR69200 Set Activates ODCP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates ODCP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates ODCP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Activates ODCP Protection.vi"/>
 				<Item Name="CHR69200 Set Activates ODVP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates ODVP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates ODVP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Activates ODVP Protection.vi"/>
 				<Item Name="CHR69200 Set Activates OQP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates OQP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates OQP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Activates OQP Protection.vi"/>
 				<Item Name="CHR69200 Set Activates OVP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates OVP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates OVP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Activates OVP Protection.vi"/>
 				<Item Name="CHR69200 Set Activates UDCP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates UDCP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates UDCP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Activates UDCP Protection.vi"/>
 				<Item Name="CHR69200 Set Activates UDVP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates UDVP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates UDVP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Activates UDVP Protection.vi"/>
 				<Item Name="CHR69200 Set Activates UVP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates UVP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates UVP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Activates UVP Protection.vi"/>
 				<Item Name="CHR69200 Set Active Output Channel.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Active Output Channel.vi"/>
-				<Item Name="CHR69200 Set Active Output Channel.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Active Output Channel.vi"/>
-				<Item Name="CHR69200 Set All Parameter Values..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set All Parameter Values..vi"/>
 				<Item Name="CHR69200 Set Curve Of Battery Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Curve Of Battery Mode..vi"/>
 				<Item Name="CHR69200 Set Output Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Output Mode..vi"/>
-				<Item Name="CHR69200 Set Output Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Output Mode..vi"/>
-				<Item Name="CHR69200 Set Output Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Output Mode.vi"/>
 				<Item Name="CHR69200 Set Output Status..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Output Status..vi"/>
-				<Item Name="CHR69200 Set Output Status..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Output Status..vi"/>
 				<Item Name="CHR69200 Set Over Capacity Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Over Capacity Protection Level.vi"/>
-				<Item Name="CHR69200 Set Over Capacity Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Over Capacity Protection Level.vi"/>
 				<Item Name="CHR69200 Set Over Current Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Over Current Protection Level.vi"/>
-				<Item Name="CHR69200 Set Over Current Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Over Current Protection Level.vi"/>
 				<Item Name="CHR69200 Set Over Delta Current Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Over Delta Current Protection Level.vi"/>
-				<Item Name="CHR69200 Set Over Delta Current Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Over Delta Current Protection Level.vi"/>
 				<Item Name="CHR69200 Set Over Delta Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Over Delta Voltage Protection Level.vi"/>
-				<Item Name="CHR69200 Set Over Delta Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Over Delta Voltage Protection Level.vi"/>
 				<Item Name="CHR69200 Set Over Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Over Voltage Protection Level.vi"/>
-				<Item Name="CHR69200 Set Over Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Over Voltage Protection Level.vi"/>
 				<Item Name="CHR69200 Set Parameter Of Battery Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Parameter Of Battery Mode..vi"/>
 				<Item Name="CHR69200 Set Parameter.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Parameter.vi"/>
-				<Item Name="CHR69200 Set Parameter.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Parameter.vi"/>
 				<Item Name="CHR69200 Set Process Time State..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Process Time State..vi"/>
-				<Item Name="CHR69200 Set Process Time State..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Process Time State..vi"/>
-				<Item Name="CHR69200 Set The Current Parameters..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set The Current Parameters..vi"/>
-				<Item Name="CHR69200 Set The Current Slew Rate Parameters..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set The Current Slew Rate Parameters..vi"/>
-				<Item Name="CHR69200 Set The Cutoff Current Parameters..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set The Cutoff Current Parameters..vi"/>
-				<Item Name="CHR69200 Set The Cutoff Time Parameters..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set The Cutoff Time Parameters..vi"/>
-				<Item Name="CHR69200 Set The Cutoff Voltage Parameters..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set The Cutoff Voltage Parameters..vi"/>
-				<Item Name="CHR69200 Set The Power Parameters..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set The Power Parameters..vi"/>
-				<Item Name="CHR69200 Set The Voltage Parameters..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set The Voltage Parameters..vi"/>
 				<Item Name="CHR69200 Set Under Delta Current Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Under Delta Current Protection Level.vi"/>
-				<Item Name="CHR69200 Set Under Delta Current Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Under Delta Current Protection Level.vi"/>
 				<Item Name="CHR69200 Set Under Delta Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Under Delta Voltage Protection Level.vi"/>
-				<Item Name="CHR69200 Set Under Delta Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Under Delta Voltage Protection Level.vi"/>
 				<Item Name="CHR69200 Set Under Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Under Voltage Protection Level.vi"/>
-				<Item Name="CHR69200 Set Under Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 Set Under Voltage Protection Level.vi"/>
 				<Item Name="CHR69200 VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 VI Tree.vi"/>
-				<Item Name="CHR69200 VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Charge_Discharge_32/CHR69200.llb/CHR69200 VI Tree.vi"/>
 				<Item Name="CHR69200 Write Instrument Data.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Write Instrument Data.vi"/>
 				<Item Name="Chroma 1905x Series *ESE.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *ESE.vi"/>
 				<Item Name="Chroma 1905x Series *ESE?.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *ESE?.vi"/>
