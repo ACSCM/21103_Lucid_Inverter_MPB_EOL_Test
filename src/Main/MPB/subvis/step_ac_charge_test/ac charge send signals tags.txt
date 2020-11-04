@@ -1,0 +1,1 @@
+["IPT_State","IBMU_ChrgCurrTar","IBMU_ChrgVoltTarg","IMPB_FltClear (TBD)"]

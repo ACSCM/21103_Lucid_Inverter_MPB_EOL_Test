@@ -1,0 +1,1 @@
+["IMPB_BattCurrDAB1","IMPB_BattCurrDAB2","IMPB_BattVoltgHiRes","IMPB_DCbusVoltg","IMPB_BattPortPower","IMPB_HwFltCode","IMPB_SwFltCode (TBD)","IMPB_HwFltFlag"]
