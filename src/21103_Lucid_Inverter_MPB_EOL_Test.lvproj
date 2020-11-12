@@ -625,9 +625,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="NationalInstruments.LicenseManagement.Sdk.dll" Type="Document" URL="/&lt;resource&gt;/NationalInstruments.LicenseManagement.Sdk.dll"/>
-			<Item Name="step_prompt.vi" Type="VI" URL="../Main/MPB/subvis/step_prompt.vi"/>
-			<Item Name="test results.ctl" Type="VI" URL="../Main/MPB/controls/test results.ctl"/>
-			<Item Name="test results.vi" Type="VI" URL="../Main/MPB/subvis/test results.vi"/>
+			<Item Name="PROTO_stepV2.ctl" Type="VI" URL="../Main/MPB/controls/PROTO_stepV2.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
