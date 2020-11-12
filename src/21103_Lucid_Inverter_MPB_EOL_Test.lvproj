@@ -621,11 +621,13 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="ethernetipinterface.dll" Type="Document" URL="/&lt;nishared&gt;/ethernetip/ethernetipinterface.dll"/>
+			<Item Name="get inverter data subdir path.vi" Type="VI" URL="../Main/Inverter/subvis/get inverter data subdir path.vi"/>
+			<Item Name="get json subdir path.vi" Type="VI" URL="../Main/utility/get json subdir path.vi"/>
 			<Item Name="ivi.dll" Type="Document" URL="ivi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="MPB_save_test_results.vi" Type="VI" URL="../Main/MPB/subvis/MPB_save_test_results.vi"/>
 			<Item Name="NationalInstruments.LicenseManagement.Sdk.dll" Type="Document" URL="/&lt;resource&gt;/NationalInstruments.LicenseManagement.Sdk.dll"/>
-			<Item Name="PROTO_stepV2.ctl" Type="VI" URL="../Main/MPB/controls/PROTO_stepV2.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
