@@ -295,17 +295,18 @@
 				<Item Name="chr63200A Write Instrument Data.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Write Instrument Data.vi"/>
 				<Item Name="chr63200A_32.dll" Type="Document" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A_32.dll"/>
 				<Item Name="CHR69200 Clear All Error.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Clear All Error.vi"/>
-				<Item Name="CHR69200 Clear Interchange Warnings.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Clear Interchange Warnings.vi"/>
-				<Item Name="CHR69200 Close.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Close.vi"/>
-				<Item Name="CHR69200 Disable.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Disable.vi"/>
-				<Item Name="CHR69200 Error Message.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Error Message.vi"/>
-				<Item Name="CHR69200 Error-Query.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Error-Query.vi"/>
-				<Item Name="CHR69200 Get Next Coercion Record.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Get Next Coercion Record.vi"/>
-				<Item Name="CHR69200 Get Next Interchange Warning.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Get Next Interchange Warning.vi"/>
+				<Item Name="CHR69200 Clear Interchange Warnings.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Clear Interchange Warnings.vi"/>
+				<Item Name="CHR69200 Close.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Close.vi"/>
+				<Item Name="CHR69200 Disable.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Disable.vi"/>
+				<Item Name="CHR69200 Error Message.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Error Message.vi"/>
+				<Item Name="CHR69200 Error-Query.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Error-Query.vi"/>
+				<Item Name="CHR69200 Get Next Coercion Record.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Get Next Coercion Record.vi"/>
+				<Item Name="CHR69200 Get Next Interchange Warning.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Get Next Interchange Warning.vi"/>
 				<Item Name="CHR69200 Get Parameter.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Get Parameter.vi"/>
-				<Item Name="CHR69200 Initialize With Options.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Initialize With Options.vi"/>
-				<Item Name="CHR69200 Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Initialize.vi"/>
-				<Item Name="CHR69200 Invalidate All Attributes.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Invalidate All Attributes.vi"/>
+				<Item Name="CHR69200 Initialize With Options.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Initialize With Options.vi"/>
+				<Item Name="CHR69200 Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Initialize.vi"/>
+				<Item Name="CHR69200 Invalidate All Attributes.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Invalidate All Attributes.vi"/>
+				<Item Name="CHR69200 IVI Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 IVI Error Converter.vi"/>
 				<Item Name="CHR69200 IVI Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 IVI Error Converter.vi"/>
 				<Item Name="CHR69200 Query Active Control Channel.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Active Control Channel.vi"/>
 				<Item Name="CHR69200 Query All Measurement Values..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query All Measurement Values..vi"/>
@@ -338,12 +339,12 @@
 				<Item Name="CHR69200 Query Requests The Tester To Identify.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Requests The Tester To Identify.vi"/>
 				<Item Name="CHR69200 Query Tester Alarm.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Tester Alarm.vi"/>
 				<Item Name="CHR69200 Query Tester Status..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Tester Status..vi"/>
-				<Item Name="CHR69200 Read Instrument Data.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Read Instrument Data.vi"/>
-				<Item Name="CHR69200 Reset Interchange Check.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Reset Interchange Check.vi"/>
-				<Item Name="CHR69200 Reset With Defaults.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Reset With Defaults.vi"/>
-				<Item Name="CHR69200 Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Reset.vi"/>
-				<Item Name="CHR69200 Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Revision Query.vi"/>
-				<Item Name="CHR69200 Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Self-Test.vi"/>
+				<Item Name="CHR69200 Read Instrument Data.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Read Instrument Data.vi"/>
+				<Item Name="CHR69200 Reset Interchange Check.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Reset Interchange Check.vi"/>
+				<Item Name="CHR69200 Reset With Defaults.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Reset With Defaults.vi"/>
+				<Item Name="CHR69200 Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Reset.vi"/>
+				<Item Name="CHR69200 Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Revision Query.vi"/>
+				<Item Name="CHR69200 Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Self-Test.vi"/>
 				<Item Name="CHR69200 Set Activates OCP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates OCP Protection.vi"/>
 				<Item Name="CHR69200 Set Activates ODCP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates ODCP Protection.vi"/>
 				<Item Name="CHR69200 Set Activates ODVP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates ODVP Protection.vi"/>
@@ -368,7 +369,8 @@
 				<Item Name="CHR69200 Set Under Delta Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Under Delta Voltage Protection Level.vi"/>
 				<Item Name="CHR69200 Set Under Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Under Voltage Protection Level.vi"/>
 				<Item Name="CHR69200 VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 VI Tree.vi"/>
-				<Item Name="CHR69200 Write Instrument Data.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 Write Instrument Data.vi"/>
+				<Item Name="CHR69200 Write Instrument Data.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Write Instrument Data.vi"/>
+				<Item Name="CHR69200_32.dll" Type="Document" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200_32.dll"/>
 				<Item Name="Chroma 1905x Series *ESE.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *ESE.vi"/>
 				<Item Name="Chroma 1905x Series *ESE?.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *ESE?.vi"/>
 				<Item Name="Chroma 1905x Series *ESR?.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *ESR?.vi"/>
@@ -621,12 +623,9 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="ethernetipinterface.dll" Type="Document" URL="/&lt;nishared&gt;/ethernetip/ethernetipinterface.dll"/>
-			<Item Name="get inverter data subdir path.vi" Type="VI" URL="../Main/Inverter/subvis/get inverter data subdir path.vi"/>
-			<Item Name="get json subdir path.vi" Type="VI" URL="../Main/utility/get json subdir path.vi"/>
 			<Item Name="ivi.dll" Type="Document" URL="ivi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="MPB_save_test_results.vi" Type="VI" URL="../Main/MPB/subvis/MPB_save_test_results.vi"/>
 			<Item Name="NationalInstruments.LicenseManagement.Sdk.dll" Type="Document" URL="/&lt;resource&gt;/NationalInstruments.LicenseManagement.Sdk.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
