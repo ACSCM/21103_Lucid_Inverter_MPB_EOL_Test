@@ -18,8 +18,8 @@
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
-				<Item Name="AddTerminal Char.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/AddTerminal Char.vi"/>
-				<Item Name="Agilent E363X Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent E363X/Agilent E363X Series.lvlib"/>
+				<Item Name="AddTerminal Char.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr19052/19052_labview_LV70.llb/AddTerminal Char.vi"/>
+				<Item Name="Agilent E363X Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent E363X Series/Agilent E363X Series.lvlib"/>
 				<Item Name="Chr12061 Abort.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr12061/Chr12061.llb/Chr12061 Abort.vi"/>
 				<Item Name="Chr12061 Clear Interchange Warnings.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr12061/Chr12061.llb/Chr12061 Clear Interchange Warnings.vi"/>
 				<Item Name="Chr12061 Close.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr12061/Chr12061.llb/Chr12061 Close.vi"/>
@@ -161,276 +161,38 @@
 				<Item Name="Chr62000H VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr62000H/Chr62000H.llb/Chr62000H VI Tree.vi"/>
 				<Item Name="Chr62000H Write Instrument Data.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr62000H/Chr62000H.llb/Chr62000H Write Instrument Data.vi"/>
 				<Item Name="Chr62000H_32.dll" Type="Document" URL="/&lt;instrlib&gt;/Chr62000H/Chr62000H_32.dll"/>
-				<Item Name="chr63200A Abort.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Abort.vi"/>
-				<Item Name="chr63200A Clear Interchange Warnings.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Clear Interchange Warnings.vi"/>
-				<Item Name="chr63200A Clear Sequence.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Clear Sequence.vi"/>
-				<Item Name="chr63200A Clear User Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Clear User Waveform.vi"/>
-				<Item Name="chr63200A Close.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Close.vi"/>
-				<Item Name="chr63200A Configure Auto Mode Current.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Auto Mode Current.vi"/>
-				<Item Name="chr63200A Configure Auto Mode Power.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Auto Mode Power.vi"/>
-				<Item Name="chr63200A Configure Auto Mode Resistance.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Auto Mode Resistance.vi"/>
-				<Item Name="chr63200A Configure Auto Mode Voltage.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Auto Mode Voltage.vi"/>
-				<Item Name="chr63200A Configure Battery Mode End Voltage.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Battery Mode End Voltage.vi"/>
-				<Item Name="chr63200A Configure Battery Mode Load Value.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Battery Mode Load Value.vi"/>
-				<Item Name="chr63200A Configure Battery Mode Measure Range.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Battery Mode Measure Range.vi"/>
-				<Item Name="chr63200A Configure Battery Mode Run Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Battery Mode Run Mode.vi"/>
-				<Item Name="chr63200A Configure Battery Mode Slew Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Battery Mode Slew Rate.vi"/>
-				<Item Name="chr63200A Configure Battery Mode Timeout.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Battery Mode Timeout.vi"/>
-				<Item Name="chr63200A Configure CC Mode Load Value.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CC Mode Load Value.vi"/>
-				<Item Name="chr63200A Configure CC Mode Measure Range.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CC Mode Measure Range.vi"/>
-				<Item Name="chr63200A Configure CC Mode Slew Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CC Mode Slew Rate.vi"/>
-				<Item Name="chr63200A Configure CCD Mode Load Value.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CCD Mode Load Value.vi"/>
-				<Item Name="chr63200A Configure CCD Mode Measure Range.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CCD Mode Measure Range.vi"/>
-				<Item Name="chr63200A Configure CCD Mode Repeat.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CCD Mode Repeat.vi"/>
-				<Item Name="chr63200A Configure CCD Mode Slew Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CCD Mode Slew Rate.vi"/>
-				<Item Name="chr63200A Configure CCD Mode Time.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CCD Mode Time.vi"/>
-				<Item Name="chr63200A Configure CP Mode Load Value.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CP Mode Load Value.vi"/>
-				<Item Name="chr63200A Configure CP Mode Measure Range.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CP Mode Measure Range.vi"/>
-				<Item Name="chr63200A Configure CP Mode Slew Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CP Mode Slew Rate.vi"/>
-				<Item Name="chr63200A Configure CR Mode Load Value.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CR Mode Load Value.vi"/>
-				<Item Name="chr63200A Configure CR Mode Measure Range.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CR Mode Measure Range.vi"/>
-				<Item Name="chr63200A Configure CR Mode Slew Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CR Mode Slew Rate.vi"/>
-				<Item Name="chr63200A Configure CRCC Mode Current.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CRCC Mode Current.vi"/>
-				<Item Name="chr63200A Configure CRCC Mode Resistance.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CRCC Mode Resistance.vi"/>
-				<Item Name="chr63200A Configure CRD Mode Load Value.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CRD Mode Load Value.vi"/>
-				<Item Name="chr63200A Configure CRD Mode Measure Range.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CRD Mode Measure Range.vi"/>
-				<Item Name="chr63200A Configure CRD Mode Repeat.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CRD Mode Repeat.vi"/>
-				<Item Name="chr63200A Configure CRD Mode Slew Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CRD Mode Slew Rate.vi"/>
-				<Item Name="chr63200A Configure CRD Mode Time.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CRD Mode Time.vi"/>
-				<Item Name="chr63200A Configure Current Specification.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Current Specification.vi"/>
-				<Item Name="chr63200A Configure CV Mode Current Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CV Mode Current Limit.vi"/>
-				<Item Name="chr63200A Configure CV Mode Load Value.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CV Mode Load Value.vi"/>
-				<Item Name="chr63200A Configure CV Mode Measure Range.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CV Mode Measure Range.vi"/>
-				<Item Name="chr63200A Configure CV Mode Response Speed.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CV Mode Response Speed.vi"/>
-				<Item Name="chr63200A Configure CVCC Mode Current.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CVCC Mode Current.vi"/>
-				<Item Name="chr63200A Configure CVCC Mode Response.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CVCC Mode Response.vi"/>
-				<Item Name="chr63200A Configure CVCC Mode Voltage.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CVCC Mode Voltage.vi"/>
-				<Item Name="chr63200A Configure CVCR Mode Resistance.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CVCR Mode Resistance.vi"/>
-				<Item Name="chr63200A Configure CVCR Mode Voltage.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure CVCR Mode Voltage.vi"/>
-				<Item Name="chr63200A Configure EXTW Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure EXTW Mode.vi"/>
-				<Item Name="chr63200A Configure Impedance Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Impedance Mode.vi"/>
-				<Item Name="chr63200A Configure OCP Mode Dwell Time.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure OCP Mode Dwell Time.vi"/>
-				<Item Name="chr63200A Configure OCP Mode Latch.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure OCP Mode Latch.vi"/>
-				<Item Name="chr63200A Configure OCP Mode Load Value.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure OCP Mode Load Value.vi"/>
-				<Item Name="chr63200A Configure OCP Mode Specification.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure OCP Mode Specification.vi"/>
-				<Item Name="chr63200A Configure OCP Mode Step.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure OCP Mode Step.vi"/>
-				<Item Name="chr63200A Configure OCP Mode Trigger Voltage.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure OCP Mode Trigger Voltage.vi"/>
-				<Item Name="chr63200A Configure OPP Mode Dwell Time.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure OPP Mode Dwell Time.vi"/>
-				<Item Name="chr63200A Configure OPP Mode Latch.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure OPP Mode Latch.vi"/>
-				<Item Name="chr63200A Configure OPP Mode Load Value.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure OPP Mode Load Value.vi"/>
-				<Item Name="chr63200A Configure OPP Mode Specification.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure OPP Mode Specification.vi"/>
-				<Item Name="chr63200A Configure OPP Mode Step.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure OPP Mode Step.vi"/>
-				<Item Name="chr63200A Configure OPP Mode Trigger Voltage.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure OPP Mode Trigger Voltage.vi"/>
-				<Item Name="chr63200A Configure Power Specification.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Power Specification.vi"/>
-				<Item Name="chr63200A Configure Program Delay Time.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Program Delay Time.vi"/>
-				<Item Name="chr63200A Configure Program Dwell Time.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Program Dwell Time.vi"/>
-				<Item Name="chr63200A Configure Program List Value.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Program List Value.vi"/>
-				<Item Name="chr63200A Configure Program Run Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Program Run Mode.vi"/>
-				<Item Name="chr63200A Configure Program Slew Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Program Slew Rate.vi"/>
-				<Item Name="chr63200A Configure Program Specification.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Program Specification.vi"/>
-				<Item Name="chr63200A Configure Program Step Value.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Program Step Value.vi"/>
-				<Item Name="chr63200A Configure Program Trigger Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Program Trigger Mode.vi"/>
-				<Item Name="chr63200A Configure Program Type.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Program Type.vi"/>
-				<Item Name="chr63200A Configure SWD Mode AC Current.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure SWD Mode AC Current.vi"/>
-				<Item Name="chr63200A Configure SWD Mode DC Current.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure SWD Mode DC Current.vi"/>
-				<Item Name="chr63200A Configure SWD Mode Frequency.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure SWD Mode Frequency.vi"/>
-				<Item Name="chr63200A Configure SWD Mode Measure Range.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure SWD Mode Measure Range.vi"/>
-				<Item Name="chr63200A Configure Sweep Mode Current.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Sweep Mode Current.vi"/>
-				<Item Name="chr63200A Configure Sweep Mode Duty.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Sweep Mode Duty.vi"/>
-				<Item Name="chr63200A Configure Sweep Mode Dwell Time.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Sweep Mode Dwell Time.vi"/>
-				<Item Name="chr63200A Configure Sweep Mode Frequency.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Sweep Mode Frequency.vi"/>
-				<Item Name="chr63200A Configure Sweep Mode Measure Range.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Sweep Mode Measure Range.vi"/>
-				<Item Name="chr63200A Configure Sweep Mode Slew Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Sweep Mode Slew Rate.vi"/>
-				<Item Name="chr63200A Configure User Waveform Data.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure User Waveform Data.vi"/>
-				<Item Name="chr63200A Configure User Waveform Point.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure User Waveform Point.vi"/>
-				<Item Name="chr63200A Configure Voltage Specification.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Configure Voltage Specification.vi"/>
-				<Item Name="chr63200A Digitizing Abort.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Digitizing Abort.vi"/>
-				<Item Name="chr63200A Digitizing Initiate.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Digitizing Initiate.vi"/>
-				<Item Name="chr63200A Digitizing Sampling Point.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Digitizing Sampling Point.vi"/>
-				<Item Name="chr63200A Digitizing Sampling Time.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Digitizing Sampling Time.vi"/>
-				<Item Name="chr63200A Digitizing Trigger Point.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Digitizing Trigger Point.vi"/>
-				<Item Name="chr63200A Digitizing Trigger Source.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Digitizing Trigger Source.vi"/>
-				<Item Name="chr63200A Digitizing Trigger Status.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Digitizing Trigger Status.vi"/>
-				<Item Name="chr63200A Digitizing Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Digitizing Trigger.vi"/>
-				<Item Name="chr63200A Digitizing Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Digitizing Waveform.vi"/>
-				<Item Name="chr63200A DIO.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A DIO.vi"/>
-				<Item Name="chr63200A Disable.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Disable.vi"/>
-				<Item Name="chr63200A Electronic Load State.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Electronic Load State.vi"/>
-				<Item Name="chr63200A Error Message.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Error Message.vi"/>
-				<Item Name="chr63200A Error-Query.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Error-Query.vi"/>
-				<Item Name="chr63200A Fail Of Sequence.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Fail Of Sequence.vi"/>
-				<Item Name="chr63200A Fetch.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Fetch.vi"/>
-				<Item Name="chr63200A Get Next Coercion Record.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Get Next Coercion Record.vi"/>
-				<Item Name="chr63200A Get Next Interchange Warning.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Get Next Interchange Warning.vi"/>
-				<Item Name="chr63200A Get Program States.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Get Program States.vi"/>
-				<Item Name="chr63200A Get User Waveform Remain Point.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Get User Waveform Remain Point.vi"/>
-				<Item Name="chr63200A Get User Waveform Status.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Get User Waveform Status.vi"/>
-				<Item Name="chr63200A Initialize With Options.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Initialize With Options.vi"/>
-				<Item Name="chr63200A Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Initialize.vi"/>
-				<Item Name="chr63200A Invalidate All Attributes.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Invalidate All Attributes.vi"/>
-				<Item Name="chr63200A IVI Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A IVI Error Converter.vi"/>
-				<Item Name="chr63200A Load Setup.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Load Setup.vi"/>
-				<Item Name="chr63200A Measure.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Measure.vi"/>
-				<Item Name="chr63200A Measurement Setting.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Measurement Setting.vi"/>
-				<Item Name="chr63200A Operating Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Operating Mode.vi"/>
-				<Item Name="chr63200A Parallel And Synchronous.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Parallel And Synchronous.vi"/>
-				<Item Name="chr63200A Protection Test Result.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Protection Test Result.vi"/>
-				<Item Name="chr63200A Read Instrument Data.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Read Instrument Data.vi"/>
-				<Item Name="chr63200A Remain Sequence.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Remain Sequence.vi"/>
-				<Item Name="chr63200A Reset Interchange Check.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Reset Interchange Check.vi"/>
-				<Item Name="chr63200A Reset With Defaults.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Reset With Defaults.vi"/>
-				<Item Name="chr63200A Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Reset.vi"/>
-				<Item Name="chr63200A Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Revision Query.vi"/>
-				<Item Name="chr63200A Save Program.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Save Program.vi"/>
-				<Item Name="chr63200A Select Program.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Select Program.vi"/>
-				<Item Name="chr63200A Select Sequence.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Select Sequence.vi"/>
-				<Item Name="chr63200A Select User Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Select User Waveform.vi"/>
-				<Item Name="chr63200A Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Self-Test.vi"/>
-				<Item Name="chr63200A Specification Judgment.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Specification Judgment.vi"/>
-				<Item Name="chr63200A Specification Of Sequence.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Specification Of Sequence.vi"/>
-				<Item Name="chr63200A Start Specification Test.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Start Specification Test.vi"/>
-				<Item Name="chr63200A Synchronous Run.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Synchronous Run.vi"/>
-				<Item Name="chr63200A System Setup.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A System Setup.vi"/>
 				<Item Name="chr63200A VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A VI Tree.vi"/>
-				<Item Name="chr63200A Write Instrument Data.vi" Type="VI" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A.llb/chr63200A Write Instrument Data.vi"/>
-				<Item Name="chr63200A_32.dll" Type="Document" URL="/&lt;instrlib&gt;/chr63200A_ELoad/chr63200A_32.dll"/>
-				<Item Name="CHR69200 Clear All Error.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Clear All Error.vi"/>
-				<Item Name="CHR69200 Clear Interchange Warnings.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Clear Interchange Warnings.vi"/>
-				<Item Name="CHR69200 Close.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Close.vi"/>
-				<Item Name="CHR69200 Disable.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Disable.vi"/>
-				<Item Name="CHR69200 Error Message.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Error Message.vi"/>
-				<Item Name="CHR69200 Error-Query.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Error-Query.vi"/>
-				<Item Name="CHR69200 Get Next Coercion Record.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Get Next Coercion Record.vi"/>
-				<Item Name="CHR69200 Get Next Interchange Warning.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Get Next Interchange Warning.vi"/>
-				<Item Name="CHR69200 Get Parameter.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Get Parameter.vi"/>
-				<Item Name="CHR69200 Initialize With Options.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Initialize With Options.vi"/>
-				<Item Name="CHR69200 Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Initialize.vi"/>
-				<Item Name="CHR69200 Invalidate All Attributes.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Invalidate All Attributes.vi"/>
-				<Item Name="CHR69200 IVI Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 IVI Error Converter.vi"/>
-				<Item Name="CHR69200 IVI Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/chr69200/chr69200.llb/CHR69200 IVI Error Converter.vi"/>
-				<Item Name="CHR69200 Query Active Control Channel.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Active Control Channel.vi"/>
-				<Item Name="CHR69200 Query All Measurement Values..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query All Measurement Values..vi"/>
-				<Item Name="CHR69200 Query Curve State Of Battery Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Curve State Of Battery Mode..vi"/>
-				<Item Name="CHR69200 Query Device Maximum Current Slew Rate..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Maximum Current Slew Rate..vi"/>
-				<Item Name="CHR69200 Query Device Maximum Current..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Maximum Current..vi"/>
-				<Item Name="CHR69200 Query Device Maximum ESR..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Maximum ESR..vi"/>
-				<Item Name="CHR69200 Query Device Maximum Power..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Maximum Power..vi"/>
-				<Item Name="CHR69200 Query Device Maximum Resistance Value In CR Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Maximum Resistance Value In CR Mode..vi"/>
-				<Item Name="CHR69200 Query Device Maximum Voltage..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Maximum Voltage..vi"/>
-				<Item Name="CHR69200 Query Device Minimum ESR..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Minimum ESR..vi"/>
-				<Item Name="CHR69200 Query Device Minimum Resistance Value In CR Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Minimum Resistance Value In CR Mode..vi"/>
-				<Item Name="CHR69200 Query Device Minimum Voltage..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Minimum Voltage..vi"/>
-				<Item Name="CHR69200 Query Device Specifications (Battery Mode).vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Specifications (Battery Mode).vi"/>
-				<Item Name="CHR69200 Query Device Specifications.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Device Specifications.vi"/>
-				<Item Name="CHR69200 Query Master Channel ID.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Master Channel ID.vi"/>
-				<Item Name="CHR69200 Query Measurement AH..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement AH..vi"/>
-				<Item Name="CHR69200 Query Measurement Current..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement Current..vi"/>
-				<Item Name="CHR69200 Query Measurement DCIR..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement DCIR..vi"/>
-				<Item Name="CHR69200 Query Measurement KWH..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement KWH..vi"/>
-				<Item Name="CHR69200 Query Measurement Power..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement Power..vi"/>
-				<Item Name="CHR69200 Query Measurement Temperature..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement Temperature..vi"/>
-				<Item Name="CHR69200 Query Measurement Time..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement Time..vi"/>
-				<Item Name="CHR69200 Query Measurement Voltage..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Measurement Voltage..vi"/>
-				<Item Name="CHR69200 Query Operation Status..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Operation Status..vi"/>
-				<Item Name="CHR69200 Query Output Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Output Mode..vi"/>
-				<Item Name="CHR69200 Query Output Status..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Output Status..vi"/>
-				<Item Name="CHR69200 Query Parameter Of Battery Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Parameter Of Battery Mode..vi"/>
-				<Item Name="CHR69200 Query Process Time State..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Process Time State..vi"/>
-				<Item Name="CHR69200 Query Requests The Tester To Identify.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Requests The Tester To Identify.vi"/>
-				<Item Name="CHR69200 Query Tester Alarm.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Tester Alarm.vi"/>
-				<Item Name="CHR69200 Query Tester Status..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Query Tester Status..vi"/>
-				<Item Name="CHR69200 Read Instrument Data.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Read Instrument Data.vi"/>
-				<Item Name="CHR69200 Reset Interchange Check.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Reset Interchange Check.vi"/>
-				<Item Name="CHR69200 Reset With Defaults.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Reset With Defaults.vi"/>
-				<Item Name="CHR69200 Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Reset.vi"/>
-				<Item Name="CHR69200 Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Revision Query.vi"/>
-				<Item Name="CHR69200 Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Self-Test.vi"/>
-				<Item Name="CHR69200 Set Activates OCP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates OCP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates ODCP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates ODCP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates ODVP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates ODVP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates OQP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates OQP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates OVP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates OVP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates UDCP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates UDCP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates UDVP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates UDVP Protection.vi"/>
-				<Item Name="CHR69200 Set Activates UVP Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Activates UVP Protection.vi"/>
-				<Item Name="CHR69200 Set Active Output Channel.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Active Output Channel.vi"/>
-				<Item Name="CHR69200 Set Curve Of Battery Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Curve Of Battery Mode..vi"/>
-				<Item Name="CHR69200 Set Output Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Output Mode..vi"/>
-				<Item Name="CHR69200 Set Output Status..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Output Status..vi"/>
-				<Item Name="CHR69200 Set Over Capacity Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Over Capacity Protection Level.vi"/>
-				<Item Name="CHR69200 Set Over Current Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Over Current Protection Level.vi"/>
-				<Item Name="CHR69200 Set Over Delta Current Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Over Delta Current Protection Level.vi"/>
-				<Item Name="CHR69200 Set Over Delta Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Over Delta Voltage Protection Level.vi"/>
-				<Item Name="CHR69200 Set Over Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Over Voltage Protection Level.vi"/>
-				<Item Name="CHR69200 Set Parameter Of Battery Mode..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Parameter Of Battery Mode..vi"/>
-				<Item Name="CHR69200 Set Parameter.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Parameter.vi"/>
-				<Item Name="CHR69200 Set Process Time State..vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Process Time State..vi"/>
-				<Item Name="CHR69200 Set Under Delta Current Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Under Delta Current Protection Level.vi"/>
-				<Item Name="CHR69200 Set Under Delta Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Under Delta Voltage Protection Level.vi"/>
-				<Item Name="CHR69200 Set Under Voltage Protection Level.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Set Under Voltage Protection Level.vi"/>
+				<Item Name="CHR69200 Initialize With Options.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR69200/CHR69200.llb/CHR69200 Initialize With Options.vi"/>
+				<Item Name="CHR69200 Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR69200/CHR69200.llb/CHR69200 Initialize.vi"/>
 				<Item Name="CHR69200 VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 VI Tree.vi"/>
-				<Item Name="CHR69200 Write Instrument Data.vi" Type="VI" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200.llb/CHR69200 Write Instrument Data.vi"/>
-				<Item Name="CHR69200_32.dll" Type="Document" URL="/&lt;instrlib&gt;/CHR17040_LabVIEW_Battery_Simulator_32/CHR69200_32.dll"/>
-				<Item Name="Chroma 1905x Series *ESE.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *ESE.vi"/>
-				<Item Name="Chroma 1905x Series *ESE?.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *ESE?.vi"/>
-				<Item Name="Chroma 1905x Series *ESR?.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *ESR?.vi"/>
-				<Item Name="Chroma 1905x Series *IDN?.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *IDN?.vi"/>
-				<Item Name="Chroma 1905x Series *OPC?.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *OPC?.vi"/>
-				<Item Name="Chroma 1905x Series *RST.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *RST.vi"/>
-				<Item Name="Chroma 1905x Series *SRE.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *SRE.vi"/>
-				<Item Name="Chroma 1905x Series *SRE?.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *SRE?.vi"/>
-				<Item Name="Chroma 1905x Series *STB?.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series *STB?.vi"/>
-				<Item Name="Chroma 1905x Series Check Equipment.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Check Equipment.vi"/>
-				<Item Name="Chroma 1905x Series Close.VI" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Close.VI"/>
-				<Item Name="Chroma 1905x Series Configure Hipot ARC Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Configure Hipot ARC Limit.vi"/>
-				<Item Name="Chroma 1905x Series Configure Hipot High Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Configure Hipot High Limit.vi"/>
-				<Item Name="Chroma 1905x Series Configure Hipot Low Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Configure Hipot Low Limit.vi"/>
-				<Item Name="Chroma 1905x Series Configure Hipot Real Current Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Configure Hipot Real Current Limit.vi"/>
-				<Item Name="Chroma 1905x Series Configure Hipot Voltage Level.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Configure Hipot Voltage Level.vi"/>
-				<Item Name="Chroma 1905x Series Configure IR High Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Configure IR High Limit.vi"/>
-				<Item Name="Chroma 1905x Series Configure IR Low Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Configure IR Low Limit.vi"/>
-				<Item Name="Chroma 1905x Series Configure POP.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Configure POP.vi"/>
-				<Item Name="Chroma 1905x Series Configure Ramp Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Configure Ramp Time.vi"/>
-				<Item Name="Chroma 1905x Series Configure Scanner Channels.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Configure Scanner Channels.vi"/>
-				<Item Name="Chroma 1905x Series Configure Test Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Configure Test Time.vi"/>
-				<Item Name="Chroma 1905x Series Delay.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Delay.vi"/>
+				<Item Name="Chroma 1905x Series *RST.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr19052/19052_labview_LV70.llb/Chroma 1905x Series *RST.vi"/>
+				<Item Name="Chroma 1905x Series Close.VI" Type="VI" URL="/&lt;instrlib&gt;/Chr19052/19052_labview_LV70.llb/Chroma 1905x Series Close.VI"/>
+				<Item Name="Chroma 1905x Series Configure Hipot Real Current Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr19052/19052_labview_LV70.llb/Chroma 1905x Series Configure Hipot Real Current Limit.vi"/>
+				<Item Name="Chroma 1905x Series Configure Hipot Voltage Level.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr19052/19052_labview_LV70.llb/Chroma 1905x Series Configure Hipot Voltage Level.vi"/>
+				<Item Name="Chroma 1905x Series Configure Ramp Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr19052/19052_labview_LV70.llb/Chroma 1905x Series Configure Ramp Time.vi"/>
+				<Item Name="Chroma 1905x Series Delay.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr19052/19052_labview_LV70.llb/Chroma 1905x Series Delay.vi"/>
 				<Item Name="Chroma 1905x Series Example.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Example.vi"/>
-				<Item Name="Chroma 1905x Series Get Configuration POP.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Get Configuration POP.vi"/>
-				<Item Name="Chroma 1905x Series Get Current Results.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Get Current Results.vi"/>
-				<Item Name="Chroma 1905x Series Get Data.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Get Data.vi"/>
-				<Item Name="Chroma 1905x Series Get Hipot Configuration.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Get Hipot Configuration.vi"/>
-				<Item Name="Chroma 1905x Series Get IR Configuration.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Get IR Configuration.vi"/>
-				<Item Name="Chroma 1905x Series Get Judgement Last Result.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Get Judgement Last Result.vi"/>
-				<Item Name="Chroma 1905x Series Get Judgement Results.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Get Judgement Results.vi"/>
-				<Item Name="Chroma 1905x Series Get Output Meter Results.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Get Output Meter Results.vi"/>
-				<Item Name="Chroma 1905x Series Get Preset Configuration.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Get Preset Configuration.vi"/>
-				<Item Name="Chroma 1905x Series Get Real Current Results.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Get Real Current Results.vi"/>
-				<Item Name="Chroma 1905x Series Get Time Results.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Get Time Results.vi"/>
-				<Item Name="Chroma 1905x Series Initialize for example .vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Initialize for example .vi"/>
+				<Item Name="Chroma 1905x Series Get Data.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr19052/19052_labview_LV70.llb/Chroma 1905x Series Get Data.vi"/>
+				<Item Name="Chroma 1905x Series Get Real Current Results.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr19052/19052_labview_LV70.llb/Chroma 1905x Series Get Real Current Results.vi"/>
+				<Item Name="Chroma 1905x Series Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr19052/19052_labview_LV70.llb/Chroma 1905x Series Initialize.vi"/>
 				<Item Name="Chroma 1905x Series Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Initialize.vi"/>
-				<Item Name="Chroma 1905x Series Measure Statistics POP.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Measure Statistics POP.vi"/>
-				<Item Name="Chroma 1905x Series Measurement Complete?.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Measurement Complete?.vi"/>
-				<Item Name="Chroma 1905x Series Memory Define Name.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Memory Define Name.vi"/>
-				<Item Name="Chroma 1905x Series Memory Save.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Memory Save.vi"/>
-				<Item Name="Chroma 1905x Series Preset AGC.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Preset AGC.vi"/>
-				<Item Name="Chroma 1905x Series Preset Auto Ranging.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Preset Auto Ranging.vi"/>
-				<Item Name="Chroma 1905x Series Preset Frequency.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Preset Frequency.vi"/>
-				<Item Name="Chroma 1905x Series Preset Ground Continuity.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Preset Ground Continuity.vi"/>
-				<Item Name="Chroma 1905x Series Preset Judgment Wait Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Preset Judgment Wait Time.vi"/>
-				<Item Name="Chroma 1905x Series Preset Lot Number.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Preset Lot Number.vi"/>
-				<Item Name="Chroma 1905x Series Preset Part Number.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Preset Part Number.vi"/>
-				<Item Name="Chroma 1905x Series Preset Pass Hold Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Preset Pass Hold Time.vi"/>
-				<Item Name="Chroma 1905x Series Preset Serial Number.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Preset Serial Number.vi"/>
-				<Item Name="Chroma 1905x Series Preset Step Hold Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Preset Step Hold Time.vi"/>
-				<Item Name="Chroma 1905x Series Ramp Time Results.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Ramp Time Results.vi"/>
+				<Item Name="Chroma 1905x Series Preset Step Hold Time.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr19052/19052_labview_LV70.llb/Chroma 1905x Series Preset Step Hold Time.vi"/>
 				<Item Name="Chroma 1905x Series Series Close.VI" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Series Close.VI"/>
 				<Item Name="Chroma 1905x Series Start and Get Data.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Start and Get Data.vi"/>
-				<Item Name="Chroma 1905x Series Start.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Start.vi"/>
-				<Item Name="Chroma 1905x Series Status?.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Status?.vi"/>
-				<Item Name="Chroma 1905x Series Stop.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series Stop.vi"/>
-				<Item Name="Chroma 1905x Series System Error.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series System Error.vi"/>
-				<Item Name="Chroma 1905x Series System Version.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series System Version.vi"/>
+				<Item Name="Chroma 1905x Series Start.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr19052/19052_labview_LV70.llb/Chroma 1905x Series Start.vi"/>
+				<Item Name="Chroma 1905x Series Stop.vi" Type="VI" URL="/&lt;instrlib&gt;/Chr19052/19052_labview_LV70.llb/Chroma 1905x Series Stop.vi"/>
 				<Item Name="Chroma 1905x Series VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/Chroma_19052_Hipot/19052_labview_LV70.llb/Chroma 1905x Series VI Tree.vi"/>
+				<Item Name="Configure Coupling.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent E363X/Public/Configure/Configure Coupling.vi"/>
+				<Item Name="Configure Output Range.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent E363X/Public/Configure/Configure Output Range.vi"/>
+				<Item Name="Configure Tracking.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent E363X/Public/Configure/Configure Tracking.vi"/>
+				<Item Name="Configure Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent E363X/Public/Configure/Low-Level/Configure Trigger.vi"/>
+				<Item Name="Initiate.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent E363X/Public/Action-Status/Low-Level/Initiate.vi"/>
+				<Item Name="Output Protection Status.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent E363X/Public/Action-Status/Output Protection Status.vi"/>
+				<Item Name="Reset Output Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent E363X/Public/Action-Status/Reset Output Protection.vi"/>
+				<Item Name="Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent E363X/Public/Utility/Revision Query.vi"/>
+				<Item Name="Save-Recall Setup.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent E363X/Public/Utility/Save-Recall Setup.vi"/>
+				<Item Name="Send Software Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent E363X/Public/Action-Status/Low-Level/Send Software Trigger.vi"/>
+				<Item Name="VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/Agilent E363X/Public/VI Tree.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="1D Array to String__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/1D Array to String__ogtk.vi"/>
@@ -496,11 +258,7 @@
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
 				<Item Name="Cluster to Array of VData--EasyXML__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Cluster to Array of VData--EasyXML__JKI EasyXML.vi"/>
-				<Item Name="compatCalcOffset.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatCalcOffset.vi"/>
-				<Item Name="compatFileDialog.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatFileDialog.vi"/>
-				<Item Name="compatOpenFileOperation.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatOpenFileOperation.vi"/>
 				<Item Name="compatReadText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatReadText.vi"/>
-				<Item Name="compatWriteText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatWriteText.vi"/>
 				<Item Name="Conditional Auto-Indexing Tunnel (I32)--SUBROUTINE__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Conditional Auto-Indexing Tunnel (I32)--SUBROUTINE__JKI EasyXML.vi"/>
 				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
 				<Item Name="Date Type Format String Mapping__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Date Type Format String Mapping__JKI EasyXML.vi"/>
@@ -514,7 +272,25 @@
 				<Item Name="Error Code Database.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Code Database.vi"/>
 				<Item Name="ErrWarn.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/ErrWarn.ctl"/>
 				<Item Name="Escape-Unescape String for XML__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Escape-Unescape String for XML__JKI EasyXML.vi"/>
-				<Item Name="ethernetip.lvlib" Type="Library" URL="/&lt;vilib&gt;/ethernetip/ethernetip.lvlib"/>
+				<Item Name="EthernetIP Close Session.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Close Session.vi"/>
+				<Item Name="EthernetIP Open Session.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Open Session.vi"/>
+				<Item Name="EthernetIP Tag Read BOOL.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Read BOOL.vi"/>
+				<Item Name="EthernetIP Tag Read DINT.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Read DINT.vi"/>
+				<Item Name="EthernetIP Tag Read INT.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Read INT.vi"/>
+				<Item Name="EthernetIP Tag Read Raw.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Read Raw.vi"/>
+				<Item Name="EthernetIP Tag Read REAL.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Read REAL.vi"/>
+				<Item Name="EthernetIP Tag Read SINT.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Read SINT.vi"/>
+				<Item Name="EthernetIP Tag Read STRING.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Read STRING.vi"/>
+				<Item Name="EthernetIP Tag Read.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Read.vi"/>
+				<Item Name="EthernetIP Tag Write BOOL.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Write BOOL.vi"/>
+				<Item Name="EthernetIP Tag Write DINT.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Write DINT.vi"/>
+				<Item Name="EthernetIP Tag Write INT.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Write INT.vi"/>
+				<Item Name="EthernetIP Tag Write Raw.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Write Raw.vi"/>
+				<Item Name="EthernetIP Tag Write REAL.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Write REAL.vi"/>
+				<Item Name="EthernetIP Tag Write SINT.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Write SINT.vi"/>
+				<Item Name="EthernetIP Tag Write STRING.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Write STRING.vi"/>
+				<Item Name="EthernetIP Tag Write.vi" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/EthernetIP Tag Write.vi"/>
+				<Item Name="ethernetip.ctl" Type="VI" URL="/&lt;vilib&gt;/ethernetip/ethernetip.llb/ethernetip.ctl"/>
 				<Item Name="eventvkey.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/eventvkey.ctl"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
@@ -572,9 +348,9 @@
 				<Item Name="Multiline String to Array (Preserve EOLs)__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Multiline String to Array (Preserve EOLs)__JKI EasyXML.vi"/>
 				<Item Name="NI License Manager.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI License Manager/NI License Manager.lvclass"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="NI_SystemLogging.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/SystemLogging/NI_SystemLogging.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Open File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Open File+.vi"/>
-				<Item Name="Open_Create_Replace File.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/Open_Create_Replace File.vi"/>
 				<Item Name="Parse XML dateTime String__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Parse XML dateTime String__JKI EasyXML.vi"/>
 				<Item Name="Parse XML for Tags__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Parse XML for Tags__JKI EasyXML.vi"/>
 				<Item Name="Parse XML__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Parse XML__JKI EasyXML.vi"/>
@@ -612,21 +388,20 @@
 				<Item Name="Treat Entity Name__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/Treat Entity Name__JKI EasyXML.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
-				<Item Name="Write File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write File+ (string).vi"/>
 				<Item Name="XML Get Node Data by Variant__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/XML Get Node Data by Variant__JKI EasyXML.vi"/>
 				<Item Name="XML Loop Stack Recursion__JKI EasyXML.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/XML Loop Stack Recursion__JKI EasyXML.vi"/>
 				<Item Name="XML Structure - Cluster__JKI EasyXML.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/XML Structure - Cluster__JKI EasyXML.ctl"/>
 				<Item Name="XML Tag Type - Enum__JKI EasyXML.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/EasyXML/JKI_EasyXML.llb/XML Tag Type - Enum__JKI EasyXML.ctl"/>
 			</Item>
 			<Item Name="9c1d1a77308d2a44" Type="VI" URL="/&lt;resource&gt;/9c1d1a77308d2a44"/>
-			<Item Name="chr69200_32.dll" Type="Document" URL="chr69200_32.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="ethernetipinterface.dll" Type="Document" URL="/&lt;nishared&gt;/ethernetip/ethernetipinterface.dll"/>
 			<Item Name="ivi.dll" Type="Document" URL="ivi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/Dialog/lvconfig.llb/LV Config Read String.vi"/>
 			<Item Name="NationalInstruments.LicenseManagement.Sdk.dll" Type="Document" URL="/&lt;resource&gt;/NationalInstruments.LicenseManagement.Sdk.dll"/>
+			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
