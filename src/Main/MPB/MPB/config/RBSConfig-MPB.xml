@@ -1,0 +1,121 @@
+<?xml version="1.0"encoding="utf-8"?>
+
+<RCConfiguration>
+	<DebugLevel>0</DebugLevel>
+	<Package>
+		<Name>RCEventSource.dll</Name>
+	</Package>
+	<Package>
+		<Name>RCDisassembly.dll</Name>
+	</Package>
+	<Package>
+		<Name>RCRBS.dll</Name>
+	</Package>
+	<Package>
+		<Name>RCAEthernet.dll</Name>
+	</Package>
+	<Package>
+		<Name>RCEthernetImpl.dll</Name>
+	</Package>
+	<Package>
+		<Name>RCEthernetTransport.dll</Name>
+	</Package>
+	<Package>
+		<Name>RCCAN.dll</Name>
+	</Package>
+	<Package>
+		<Name>RCNIXNET.dll</Name>
+	</Package>	
+	
+	<EventSource>
+		<Name>Idle</Name>
+		<Class>RC_CIdle</Class>
+	</EventSource>
+	<EventSource>
+		<Name>SysClock</Name>
+		<Class>RC_CSysClock</Class>
+		<Config>
+			<Attribute>
+				<TimerPeriod_us>10000</TimerPeriod_us>
+			</Attribute>
+		</Config>
+	</EventSource>
+	
+	<Device> <!--Ethernet AutomotiveEthernet -->
+		<Name>AEthernet_Device</Name>
+		<Class>RC_CEthernetDevice</Class>
+		<Config>
+		<clock_src>SysClock</clock_src>
+			<Port>
+				<Name>AEthernet_Port</Name>
+				<Class>RC_CEthernetPort</Class>
+				<Config>
+					<ClusterName>Ethernet_Cluster</ClusterName>
+					<NWDescriptor>EthernetCluster_20201020.arxml</NWDescriptor>
+					<SameNWDescriptorOnHost>true</SameNWDescriptorOnHost>
+					<EnableEventMulticast>true</EnableEventMulticast>
+					<EthernetCardType>intel</EthernetCardType>
+					<Channel>
+						<Name>HV_Batt</Name>
+						<ECU>
+							<Name>VCU_RFEGW</Name>
+							<IPAddress>192.168.43.4</IPAddress>
+						</ECU>
+						<ECU>
+							<Name>MPB</Name>
+							<IsEcuUnderTest>Yes</IsEcuUnderTest>
+						</ECU>						
+						<ECU>
+							<Name>BMU</Name>
+							<IPAddress>192.168.43.5</IPAddress>
+						</ECU>						
+					</Channel>
+					<Channel>
+						<Name>Powertrain</Name>
+						<ECU>
+							<Name>VCU_RFEGW</Name>
+							<IPAddress>192.168.41.4</IPAddress>
+						</ECU>
+						<ECU>
+							<Name>TCU</Name>
+							<IPAddress>192.168.41.8</IPAddress>
+						</ECU>	
+						<ECU>
+							<Name>MPB</Name>
+							<IsEcuUnderTest>Yes</IsEcuUnderTest>
+						</ECU>						
+					</Channel>
+				</Config>
+			</Port>
+		</Config>
+	</Device>
+	
+	<Peer>
+		<Name>AE_Services_Tx</Name>
+		<Class>RC_CRBS</Class>
+		<Config>
+			<clock_src>SysClock</clock_src>
+			<Port>AEthernet_Port</Port>			
+		</Config>
+	</Peer>
+
+	<Peer>
+		<Name>AE_Services_Rx</Name>
+		<Class>RC_CDisassembler</Class>
+		<Config>
+			<clock_src>SysClock</clock_src>
+			<Port>AEthernet_Port</Port>			
+		</Config>
+	</Peer>
+
+	<Peer>
+		<Name>AEthernet</Name>
+		<Class>RC_CAEthernet</Class>
+		<Config>
+			<clock_src>SysClock</clock_src>
+			<Port>AEthernet_Port</Port>			
+		</Config>
+	</Peer>
+
+</RCConfiguration>
+	
